@@ -1,0 +1,16 @@
+Header: Subject,Date,Trial,File,0,30,60,90,120,150,180,210,240,270,FinalScore
+
+Subject is the subject's number (e.g., 14)
+Date is the date of the trial in MM/DD format
+Trial is the trial number recorded
+File is the kinematic mat file that stores the kinematic data for the trial
+    It is important that the entry is only written down if the kinematic data is 'ok' or better
+0,30,60,90,120,150,210,240,270 are the interval scores for the respective 30 second interval
+Final Score is the written down final score used to verify everything was written down correctly
+
+
+
+Example:
+Subject,Date,Trial,File,0,30,60,90,120,150,180,210,240,270,FinalScore
+29,1/22,1,kin_stat1_2016Y_01M_22D_12h_19m_29s_S3-subject-29_trials_1.mat,31,28,28,32,31,31,32,31,31,31,14
+30,3/14,1,kin_stat1_2016Y_03M_14D_14h_25m_17s_S3-subject-30_trials_2.mat,31,31,31,31,31,32,32,31,31,31,22
