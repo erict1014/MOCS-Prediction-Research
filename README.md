@@ -3,7 +3,7 @@ The purpose of this research is to improve upon the previous model of predicting
 
 ## Files
 The main files that are used during the running of the experiments are `prep.py`, `tunerExperiment.py`, and `tunerModelIdea.py`. <br>
-The files `metrics.py`, `post.py`, and `post.ipynb` are used for generation of plots and graphs of the results. <br>
+The files `metrics.py` and `post.py` are used for generation of plots and graphs of the results. <br>
 The files `tuner.sbatch` and `analyze.sbatch` are used for running the experiments and performing the full analysis of the results, respectively.
 
 ## Training
