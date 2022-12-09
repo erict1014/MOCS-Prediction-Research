@@ -1,5 +1,5 @@
 '''
-This was taken from my Advanced Machine Learning class, I did not write this file
+This was taken from Reza's Advanced Machine Learning class, I did not write this file
 '''
 
 import sklearn
