@@ -1,5 +1,4 @@
 #!/bin/bash
-# Reza Torbati
 #
 # Reasonable partitions: debug_5min, debug_30min, normal
 #
